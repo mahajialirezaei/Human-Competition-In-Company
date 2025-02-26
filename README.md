@@ -1,6 +1,6 @@
 ---
 
-# Human-Competition-In-Company
+# Human Competition In Company
 
 **Human-Competition-In-Company** is a project that analyzes the dynamics of human competition in a company setting. The project aims to explore various factors that influence competition among employees and how these factors impact company performance and productivity.
 
